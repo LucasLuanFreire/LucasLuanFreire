@@ -7,4 +7,7 @@
  - Todos estes cursos eu realizei através de um projeto do governo Paranaense chamado "_Edutech_".
  - Estes cursos são realizados na plataforma da [Alura](https://www.alura.com.br)
 
+### Para entrar em contato 📧
+- *E-mail*:lucasluanfreire@gmail.com
+
 
